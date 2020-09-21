@@ -1,2 +1,3 @@
 # best-repo-ever
-add some text new-branch-1
+add some text conflict resolve
+
